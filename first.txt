@@ -2,3 +2,5 @@ self do sth
 other change
 more
 bd
+other1changed
+
